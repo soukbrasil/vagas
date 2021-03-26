@@ -15,6 +15,6 @@ Se voce gosta de um ambiente que valoriza autonomia, é apaixonado por inovaçã
 
 # Vagas
 
-[Desenvolvedor(a) PHP JR](dev/Desenvolvedor PHP JR.md)
+[Desenvolvedor(a) PHP JR](https://github.com/soukbrasil/vagas/blob/main/dev/Desenvolvedor%20PHP%20JR.md)
 
-[Desenvolvedor(a) PHP Pleno](dev/Desenvolvedor PHP Pleno.md)
+[Desenvolvedor(a) PHP Pleno](https://github.com/soukbrasil/vagas/blob/main/dev/Desenvolvedor%20PHP%20Pleno.md)

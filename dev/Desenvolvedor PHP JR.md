@@ -3,9 +3,9 @@
 
 **Forma de contratação:** PJ
 
-**Benefícios:** Após 12 meses, 1 mês de ferias remunerada;
+**Benefícios:** Após 12 meses de prestação de serviços, 1 mês remunerado e livre de compromissos com entregas.
 
-**Salário:** a partir R$3.000
+**Remuneração:** a partir R$3.000
 
 Como desenvolvedor(a) na nossa equipe você irá:
 - Aprender;
@@ -13,7 +13,7 @@ Como desenvolvedor(a) na nossa equipe você irá:
 
 **Requisitos**
 - Ter boa comunicação;
-- Experiência em desenvolvimento de aplicações com PHP/LARAVEL;
+- Experiência em desenvolvimento de aplicações com PHP;
 - Conhecimento com Banco de Dados MySql;
 - Conhecimento em versionamento de código utilizando GIT;
 - Confortável em trabalhar 100% remoto.

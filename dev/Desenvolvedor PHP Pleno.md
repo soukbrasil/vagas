@@ -2,7 +2,7 @@
 
 **Forma de contratação:** PJ
 
-**Benefícios:** Após 12 meses, 1 mês de ferias remunerada;
+**Benefícios:** Após 12 meses de prestação de serviços, 1 mês remunerado e livre de compromissos com entregas.
 
 **Salário:** a partir R$7.000
 
